@@ -5,7 +5,8 @@
 
 [Second Page](second.md)
 
-Image
+Picture that I took
+![doggy](https://user-images.githubusercontent.com/46941500/52158639-ec512400-265f-11e9-815a-22949714ee07.jpg)
 
 ![Grand Canyon ](https://www.nps.gov/grca/planyourvisit/images/0531fyp.jpg?maxwidth=650&autorotate=false)
 
